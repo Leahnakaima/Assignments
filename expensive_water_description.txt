@@ -1,0 +1,3 @@
+Given a specialized program/command for propublica 2017 Q1 staffers' report, we ran the command in python (.py)to locate the necessary data. We made the information executable using "chmod" and downloaded the raw data from internet using the link to the report. finally, we redirected it to a different file and we wanted to see how it looks as a CSV or in excel. Excel organized the table in a way that is understandable to people who may not be familiar with the other programming languages.
+
+In summary, I was looking for a filtered display of expenses on water that was greater than $1000

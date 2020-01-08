@@ -1,0 +1,176 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         403
+	Longest value:         7 characters
+	Most common values:    None (285x)
+	                       S001185 (32x)
+	                       J000292 (28x)
+	                       W000819 (27x)
+	                       B000755 (24x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         434
+	Longest value:         35 characters
+	Most common values:    OFFICE OF THE MINORITY LEADER (49x)
+	                       HON. TERRI A. SEWELL (32x)
+	                       HON. BILL JOHNSON (28x)
+	                       OFFICE OF THE SPEAKER (27x)
+	                       HON. MARK WALKER (27x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (3019x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         12
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (2734x)
+	                       GENERAL EXPENDITURES (253x)
+	                       ADMIN AND OPS (10x)
+	                       APPROPRIATIONS COMMITTEE (6x)
+	                       SUPPLIES AND MATERIALS (5x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (3019x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         71
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-03-21 (231x)
+	                       2017-02-17 (213x)
+	                       2017-01-19 (212x)
+	                       2017-03-28 (169x)
+	                       2017-02-16 (156x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (3019x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1719
+	Longest value:         8 characters
+	Most common values:    904174 (194x)
+	                       900647 (194x)
+	                       912200 (188x)
+	                       912383 (129x)
+	                       902686 (113x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1329
+	Longest value:         40 characters
+	Most common values:    BOISE CASCADE COMPANY (616x)
+	                       CITIBANK GOV CARD SERVICE (53x)
+	                       IMPACTOFFICE (51x)
+	                       CAPITOL  HOST (40x)
+	                       FIRST CHOICE COFFEE SERVICES (25x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         218
+	Smallest value:        2015-11-13
+	Largest value:         2017-03-20
+	Most common values:    2017-01-03 (231x)
+	                       2016-11-29 (200x)
+	                       2017-01-29 (191x)
+	                       2017-02-22 (53x)
+	                       2017-01-26 (49x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         211
+	Smallest value:        2015-11-13
+	Largest value:         2017-12-31
+	Most common values:    2017-02-28 (242x)
+	                       2016-12-28 (199x)
+	                       2017-01-28 (186x)
+	                       2017-01-26 (60x)
+	                       2017-02-22 (55x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         15 characters
+	Most common values:    FOOD & BEVERAGE (3019x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2103
+	Smallest value:        -1,170.6
+	Largest value:         995
+	Sum:                   300,610.63
+	Mean:                  99.573
+	Median:                50
+	StDev:                 144.193
+	Most common values:    25 (65x)
+	                       20 (60x)
+	                       30 (48x)
+	                       15 (45x)
+	                       10 (40x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2,015
+	Largest value:         2,017
+	Sum:                   6,088,417
+	Mean:                  2,016.7
+	Median:                2,017
+	StDev:                 0.461
+	Most common values:    2,017 (2116x)
+	                       2,016 (900x)
+	                       2,015 (3x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1329
+	Longest value:         40 characters
+	Most common values:    BOISE CASCADE COMPANY (616x)
+	                       CITIBANK GOV CARD SERVICE (53x)
+	                       IMPACTOFFICE (51x)
+	                       CAPITOL  HOST (40x)
+	                       FIRST CHOICE COFFEE SERVICES (25x)
+
+Row count: 3019
