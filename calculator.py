@@ -1,4 +1,17 @@
-def multiply(2,3):
-def add(2,3):
-def subtract(3,2)
-def divide(4,2)
+def multiply(a,b):
+    return a * b
+def add(a,b):
+    return a + b
+def subtract(a,b):
+    return a - b
+def divide(a,b):
+    return a / b
+def square(a):
+    return a * a
+def cube(a):
+    return a * a * a
+
+    print("I'm going use the calculator functions to multiply 5 and 6")
+    x = multiply(5,6)
+    print(x)
+
